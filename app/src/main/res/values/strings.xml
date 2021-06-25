@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReposNews</string>
+    <string name="no_internet_msg">Please check your internet connection \nand try again.</string>
+
+</resources>
